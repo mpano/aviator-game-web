@@ -1,0 +1,10 @@
+.idea/
+.github/
+# deps & builds
+node_modules/
+dist/
+build/
+
+# env & OS noise
+.env*
+.DS_Store
